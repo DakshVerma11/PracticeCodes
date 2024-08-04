@@ -1,0 +1,4 @@
+ 1 , Daksh Verma , 123 Narela New Delhi 110099 , 18 , 8.000000 , 9.000000 , 10.000000
+ 2 , Adi Burman , 12B Chanakyapuri 110021 New Delhi , 19 , 6.000000 , 5.000000 , 7.000000
+ 3 , Neeraj Sharma , ABCD Dwarka Sector 7 110029 , 17 , 5.000000 , 6.000000 , 7.000000
+ 4 , Varun Gupta , 91/23 ABC Road New Delhi 110035 , 20 , 4.000000 , 8.000000 , 5.000000

@@ -1,0 +1,6 @@
+Alice , 30 , 165
+Bob , 25 , 180
+Charlie , 40 , 170
+David , 22  , 175
+Emily , 35 , 160
+ Varun Gupta , 21 , 168.000000 
